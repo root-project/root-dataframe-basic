@@ -1,5 +1,6 @@
-# Making your analysis more efficient with ROOT: A basic introductory course
-This tutorial illustrate the usage of [ROOT dataframes](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) in Python with [accompanying slides](slides.pdf) as basic introduction to the technology. The notebooks guide you through an exemplary analysis producing a dimuon spectrum using [data from the CMS detector taken in 2012](http://opendata.web.cern.ch/record/12342).
+# Making your analysis more efficient with ROOT
+## A basic introductory course
+This tutorial illustrate the usage of [ROOT dataframes](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) in Python with [accompanying slides](slides.pdf) as basic introduction to the technology. The [notebook](analysis.ipynb) guides you through an exemplary analysis producing a dimuon spectrum using [data from the CMS detector taken in 2012](http://opendata.web.cern.ch/record/12342).
 
 Go here if you have a CERN account:
 
